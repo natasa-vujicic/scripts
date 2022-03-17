@@ -1,7 +1,7 @@
 # scripts
 Some basic scripts for script learning
 
-Contains these type of scrpts
+Contains these type of scripts
 - Batch CMD
 - SikuliX
 
